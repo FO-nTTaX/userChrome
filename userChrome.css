@@ -1,0 +1,9 @@
+.tabbrowser-tab {
+	min-width: 0px !important;
+}
+#screenshots_mozilla_org-menuitem-_create-screenshot {
+	display: none;
+}
+#context-inspect ~ menuseparator {
+	display: none;
+}
